@@ -18,7 +18,7 @@ class ThirdViewController: ExerciseViewController {
         Build four blue squres, 20 points wide, one in each corner of the screen. 
         They must stay in their respective corners on device rotation. 
         
-        Use Autolayout.
+        Use Autolayout via programatic layout.
         
         Your view should be in self.exerciseView, not self.view
         */
